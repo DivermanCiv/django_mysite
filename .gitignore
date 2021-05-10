@@ -1,2 +1,5 @@
 mysite/.env
-mysite/__pycache__/*
+mysite/__pycache__/
+polls/__pycache__/
+__pycache__
+*.pyc
